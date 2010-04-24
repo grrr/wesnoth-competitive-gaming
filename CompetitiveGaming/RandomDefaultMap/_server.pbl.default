@@ -1,0 +1,7 @@
+icon="data/core/images/items/altar-evil.png"
+title="Random Default Map"
+version="0.8.4"
+author="grrr"
+description="The add-on chooses a default map randomly upon starting a game. The players start at random starting positions."
+type="map_pack"
+email="grrisars@gmail.com"
