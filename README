@@ -9,11 +9,11 @@ This project aims at providing a better competitive gaming experience for
 Wesnoth's multiplayer mode, especially for players who joined the Ladder of
 Wesnoth [1]. It contains the Competitive Gaming add-on which can be found on
 Wesnoth's add-on server. That allows ladder players to easily update their
-Wesnoth clients.
+Wesnoth clients. More information here [2]
 
 However, it is not easy to have more than one collaborator for a Wesnoth add-on
 (as updates would simply overwrite each other's changes), and the Coordinated
-Wesnoth UMC Development project [2] still uses a subversion repository which
+Wesnoth UMC Development project [3] still uses a subversion repository which
 contains a lot of graphics and has simply become too big and also too slow if
 you wanted to use git-svn.
 
@@ -26,4 +26,5 @@ According with the Wesnoth add-ons policy, all contents of the Competitive Gamin
 
 --
 [1] http://ladder.subversiva.org/
-[2] http://sourceforge.net/projects/wesnoth-umc-dev/
+[2] http://forums.wesnoth.org/viewtopic.php?f=15&t=29731
+[3] http://sourceforge.net/projects/wesnoth-umc-dev/

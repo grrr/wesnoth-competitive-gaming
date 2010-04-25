@@ -1,6 +1,6 @@
 icon="data/core/images/items/altar-evil.png"
 title="Competitive Gaming"
-version="1.8.0"
+version="1.8.1"
 author="grrr, various"
 description="This is the official Ladder of Wesnoth add-on. It provides map updates, random start positions and random map selection, for a better ladder gaming experience. Current version supports 1.8 *only*. At this point, no backport for 1.6 is planned."
 type="map_pack"
